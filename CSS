@@ -1,0 +1,38 @@
+html{
+  font-family: "Courgette", Times New Roman, Helvettica;
+  text-align:center;
+  color: darkslategray;
+  min-width: 250px;
+  background: khaki;
+}
+img {
+  max-width: 100%;
+  display: block;
+  height: auto;
+ }
+
+#img-div{
+  margin: auto;
+  margin-top:40px;
+  width: 500px;
+  background: khaki;
+  height: 50%; 
+
+}
+#headline {
+  color: black;
+  text-align: center;
+  
+}
+ul {
+  max-width: 550px;
+  margin: auto;
+  text-align:left;
+}
+
+li {
+  color: black;
+  font-size: 18px;
+  margin: 10px;
+  
+}
